@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    font-family: "Source Sans Pro", sans-serif;
+    
+  }
+
+  .outerDiv {
+      background-color: #1A1B21 !important;
+      width: 375px;
+      align-items: center;
+      margin: 0 auto;
+      border-radius: 10px 10px 10px 10px;
+  }
+  

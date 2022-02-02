@@ -1,0 +1,13 @@
+.topDiv {
+    margin-top: 20px;
+    background-color: #1A1B21;
+    border-radius: 10px 10px 0px 0px;
+}
+.photo {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+

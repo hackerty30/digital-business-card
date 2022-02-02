@@ -27,9 +27,9 @@ export default function() {
             </div>
             <div className="additionalInfo">
                 <h1 className="additionalInfoTitle">About</h1>
-                <p className="additionalInfoText">about me</p>
+                <p className="additionalInfoText">I am a full stack engineer for Sunquest Information Systems. My primary focus is maintaining and adding new features to our Mitogen LIMS software using HTML, CSS, Javascript, JQuery, Java, Python, and MySQL.</p>
                 <h1 className="additionlInfoTitle">Interests</h1>
-                <p className="additionalInfoText">my likes</p>
+                <p className="additionalInfoText">In my free time I enjoy spending time with my wife and child. I also enjoy video games and cats.</p>
             </div>
         </div>
     )
